@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend – Personal Financial Planning & Expenditure Management System",
+  "description": "Production-quality personal and family financial management platform with monthly salary planning, emergency funds, goals, insurance tracker, and a Smart Spending Decision Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
